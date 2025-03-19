@@ -29,7 +29,8 @@
 
 Примеры баг-репортов в JIRA
 
-Коллекции Postman
+Коллекции Postman 
+[Postman Collection](https://raw.githubusercontent.com/helg1985/my_api_collections/refs/heads/main/Test%20Collection.postman_collection.json)
 
 Проект HTML/CSS 
 
