@@ -27,7 +27,7 @@
 
 ## Ссылки
 
-Примеры баг-репортов в JIRA
+[Примеры баг-репортов в JIRA](https://drive.google.com/drive/folders/1LaGG52v2sxUA9p6FBHAOwL0ZVINf8xH0?usp=sharing)
 
 Коллекции Postman [Перейти к Postman](https://www.postman.com/helg1985/workspace/public-workspace)
 
@@ -38,3 +38,4 @@
 ## Связаться со мной
 
 Телефон: 8-987-510-10-60
+Почта: sazykin10@mail.ru
